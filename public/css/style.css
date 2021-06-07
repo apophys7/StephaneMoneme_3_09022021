@@ -271,7 +271,7 @@ footer a {
   margin: 10px 5px;
 }
 .aside__title {
-  font-size: 18px;
+  font-size: 25px;
   font-weight: bold;
   font-family: "Roboto", sans-serif;
   margin-bottom: 15px;
@@ -358,7 +358,7 @@ footer a {
   display: flex;
   align-items: center;
   justify-content: space-around;
-  font-size: 14px;
+  font-size: 18px;
 }
 @media only screen and (min-width: 765px) {
   .aside__texte {
@@ -395,7 +395,7 @@ main {
   margin-bottom: 15px;
 }
 .reserve__hgroup h2 {
-  font-size: 15px;
+  font-size: 19px;
   font-weight: normal;
   color: #888;
 }
@@ -429,7 +429,7 @@ article a {
   border-radius: 15px;
 }
 .store__title {
-  font-size: 22px;
+  font-size: 25px;
   font-family: "Roboto", sans-serif;
   font-weight: bold;
   margin-bottom: 18px;
@@ -569,19 +569,19 @@ article a {
 /*Animation de l'icone validation */
 @keyframes validebtn {
   0% {
-    transform: rotade(-90deg);
+    transform: rotate(-90deg);
   }
   20% {
-    transform: rotade(-75deg) scale(1.03);
+    transform: rotate(-75deg) scale(1.03);
   }
   40% {
-    transform: rotade(-60deg) scale(1.08);
+    transform: rotate(-60deg) scale(1.08);
   }
   60% {
     transform: rotate(-45deg) scale(1.15);
   }
   80% {
-    transform: rotade(-30deg) scale(1.08);
+    transform: rotate(-30deg) scale(1.08);
   }
   100% {
     transform: rotate(5deg) scale(1);
@@ -1013,19 +1013,19 @@ h4 {
 /*Animation de l'icone validation */
 @keyframes validebtn {
   0% {
-    transform: rotade(-90deg);
+    transform: rotate(-90deg);
   }
   20% {
-    transform: rotade(-75deg) scale(1.03);
+    transform: rotate(-75deg) scale(1.03);
   }
   40% {
-    transform: rotade(-60deg) scale(1.08);
+    transform: rotate(-60deg) scale(1.08);
   }
   60% {
     transform: rotate(-45deg) scale(1.15);
   }
   80% {
-    transform: rotade(-30deg) scale(1.08);
+    transform: rotate(-30deg) scale(1.08);
   }
   100% {
     transform: rotate(5deg) scale(1);
@@ -1092,19 +1092,19 @@ h4 {
 /*Animation de l'icone validation */
 @keyframes validebtn {
   0% {
-    transform: rotade(-90deg);
+    transform: rotate(-90deg);
   }
   20% {
-    transform: rotade(-75deg) scale(1.03);
+    transform: rotate(-75deg) scale(1.03);
   }
   40% {
-    transform: rotade(-60deg) scale(1.08);
+    transform: rotate(-60deg) scale(1.08);
   }
   60% {
     transform: rotate(-45deg) scale(1.15);
   }
   80% {
-    transform: rotade(-30deg) scale(1.08);
+    transform: rotate(-30deg) scale(1.08);
   }
   100% {
     transform: rotate(5deg) scale(1);
